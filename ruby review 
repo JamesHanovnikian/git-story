@@ -1,0 +1,11 @@
+# Welcome the user
+puts "Welcome to the favorite foods app!"
+# make an empty array with foods variable
+favoriteFoods = []
+while true 
+  puts "Enter 5 of your favorite foods:"
+  
+# ask the user for input 
+  # store in gets.chomp
+  # store the input in an array
+# print the array 
